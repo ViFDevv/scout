@@ -1,0 +1,50 @@
+{
+  "mcpServers": {
+    "google-search": {
+      "isActive": true,
+      "command": "npx",
+      "args": ["google-search-mcp"],
+      "alwaysAllow": ["google-search"],
+      "disabled": false
+    },
+    "fetcher": {
+      "isActive": true,
+      "command": "npx",
+      "args": ["-y", "fetcher-mcp"],
+      "alwaysAllow": ["fetch_url", "fetch_urls"],
+      "disabled": false
+    },
+    "playwright": {
+      "command": "npx",
+      "args": ["playwright-mcp-bypass"],
+      "alwaysAllow": [
+        "browser_close",
+        "browser_wait",
+        "browser_file_upload",
+        "browser_install",
+        "browser_press_key",
+        "browser_navigate",
+        "browser_navigate_forward",
+        "browser_navigate_back",
+        "browser_pdf_save",
+        "browser_screen_capture",
+        "browser_screen_move_mouse",
+        "browser_screen_click",
+        "browser_screen_drag",
+        "browser_screen_type",
+        "browser_tab_list",
+        "browser_tab_new",
+        "browser_tab_select",
+        "browser_tab_close",
+        "browser_click",
+        "browser_snapshot",
+        "browser_drag",
+        "browser_hover",
+        "browser_type",
+        "browser_select_option",
+        "browser_take_screenshot"
+      ],
+      "disabled": false
+    }
+  }
+}
