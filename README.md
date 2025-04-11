@@ -1,8 +1,8 @@
-# Scout Agent (Archer) - A Web Research Agent for Roo Code
+# Scout Agent - A Web Research Agent for Roo Code
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/yan5xu?style=social)](https://x.com/yan5xu)
 
-Scout (代号 Archer) 是一个基于 **[Roo Code VS Code 扩展](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline)** 设计的实验性 Agent 实现。它专注于通过模拟人类行为进行精准的网络信息收集、研究与交互，旨在将 Roo Code 转变为一个强大的 Web 研究助手。
+Scout 是一个基于 **[Roo Code VS Code 扩展](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline)** 设计的实验性 Agent 实现。它专注于通过模拟人类行为进行精准的网络信息收集、研究与交互，旨在将 Roo Code 转变为一个强大的 Web 研究助手。
 
 ## 项目目标
 
